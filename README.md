@@ -33,7 +33,3 @@ I'm an **Electrical Control Engineer** passionate about bridging the gap between
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
-
----
-
-This version refines the language to make it more formal and polished while retaining the engaging elements that make it personal. Let me know what you think!
