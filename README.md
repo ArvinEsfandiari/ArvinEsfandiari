@@ -11,7 +11,7 @@ I'm an **Electrical Control Engineer** passionate about bridging the gap between
 
 - 📫 Reach me at: **arvin4943@gmail.com**
 
-- ⚡ Fun fact: **Most maps of the world distort actual landmass sizes due to projection!**
+- ⚡ Fun fact: **Most maps of the world are wrong!**
 
 ---
 
