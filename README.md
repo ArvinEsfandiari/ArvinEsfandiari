@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arvin Esfandiari</h1>
-<h3 align="center">👀 I’m interested in real and artificial neural networks and its applications.</h3>
 
+- I'm passionate about bridging the gap between control engineering and financial data science, applying advanced algorithms to real-world financial markets. My work primarily focuses on designing and optimizing neural networks for predictive models in financial trading, particularly through the lens of learning methods. I'm fascinated by the parallels between artificial neural networks and the human brain's neurons, and how we can harness these ideas to advance both AI and neuroscience.
 - 🔭 I’m currently working on **optimizing MACD parameters with neural networks.**
 
 - 👯 I’m looking to collaborate on **algorithmic trading.**
