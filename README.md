@@ -3,7 +3,7 @@
 
 I'm an **Electrical Control Engineer** passionate about bridging the gap between control systems and **financial data science**. My focus is on applying advanced algorithms and optimizing predictive models in financial markets, particularly using **neural networks**. I’m fascinated by the parallels between artificial neural networks and the human brain, exploring how we can leverage these insights to advance both AI and neuroscience.
 
-- 🔭 I’m currently working on **optimizing MACD parameters using deep learning techniques.**
+- 🔭 I’m currently working on **optimizing MACD parameters using learning techniques.**
 
 - 🤝 I’m seeking collaborations on **algorithmic trading** and **neural network applications**.
 
