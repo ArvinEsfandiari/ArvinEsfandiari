@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fearlessempire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fearlessempire" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arvin-esfandyari-1998esf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvin-esfandyari-1998esf" height="30" width="40" /></a>
 <a href="https://instagram.com/arvin_esfandyari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvin_esfandyari" height="30" width="40" /></a>
 </p>
