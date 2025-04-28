@@ -1,17 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Arvin Esfandiari</h1>
+<h1 align="center">Hi 👋, I'm Arvin </h1>
 
-I'm an **Electrical Control Engineer**, passionate about bridging the gap between control systems and **financial data science**. My focus is on applying advanced algorithms and optimizing predictive models in financial markets, particularly using **neural networks**. I’m fascinated by the parallels between artificial neural networks and the human brain, exploring how we can leverage these insights to advance both AI and neuroscience.
+I'm an **Electrical Control Engineer**, passionate about bridging the gap between control systems and **data science**. My focus is on applying advanced algorithms and optimizing predictive models in time series data, particularly using **neural networks**. I’m fascinated by the parallels between artificial neural networks and the human brain, exploring how we can leverage these insights to advance both AI and neuroscience.
 
-- 🔭 I’m currently working on **optimizing MACD parameters using learning techniques.**
+- 🔭 I’m currently working on **time-series modeling and real-time signal prediction using machine learning techniques**.
 
-- 🤝 I’m seeking collaborations on **algorithmic trading** and **neural network applications**.
-
-- 💬 Ask me about **neural networks, algorithmic trading, and financial market analysis**.
+- 💬 Ask me about **neural networks, Machine Learning, and real-time system development**.
 
 - 📫 Reach me at: **arvin4943@gmail.com**
-
-- ⚡ Fun fact: **Most maps of the world are wrong!**
 
 ---
 
