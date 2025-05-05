@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arvin </h1>
 
-I'm an **Electrical Control Engineer**, passionate about bridging the gap between control systems and **data science**. My focus is on applying advanced algorithms and optimizing predictive models in time series data, particularly using **neural networks**. I’m fascinated by the parallels between artificial neural networks and the human brain, exploring how we can leverage these insights to advance both AI and neuroscience.
+I'm an **Electrical Control Engineer**, passionate about bridging the gap between control systems and **data science**.
 
 - 🔭 I’m currently working on **time-series modeling and real-time signal prediction using machine learning techniques**.
 
