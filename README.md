@@ -5,9 +5,9 @@ I'm an **Electrical Control Engineer**, passionate about bridging the gap betwee
 
 - 🔭 I’m currently working on **time-series modeling and real-time signal prediction using machine learning techniques**.
 
-- 💬 Ask me about **neural networks, Machine Learning, and real-time system development**.
+- 💬 Ask me about **Neural Networks, Machine Learning, and real-time system development**.
 
-- 📫 Reach me at: **arvin4943@gmail.com**
+- 📫 Reach me at: **arvin.esfandyari1377@gmail.com**
 
 ---
 
