@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arvin </h1>
 
-I'm an **Electrical Control Engineer**, passionate about bridging the gap between control systems and **NeuroScience**.
+I'm an **Electrical Control Engineer**, passionate about bridging the gap between **Control and Systems Theory** and **NeuroScience**.
 
 - 🔭 I’m currently working on **time-series modeling and real-time signal prediction using machine learning techniques**.
 
